@@ -1,0 +1,13 @@
+.navbarcolor{
+    width:1367px;
+    background-color:lightblue;
+position:fixed !important;
+top:0;
+z-index: 20000;
+}
+.navbarcolor1{
+    font-style:italic;
+}
+.navbarpadding{
+    padding-left: 876px;
+}

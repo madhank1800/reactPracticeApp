@@ -1,0 +1,27 @@
+
+
+.formcss{
+    /* margin-top: 1px !important; */
+    width: 300px;
+    border: 1px solid lightblue;
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* .buttoncsss{
+    margin-top: 507px;
+} */
+
+.matbuttoncss{
+    margin-top: 507px;
+}
+
+.butcol{
+    background-color: lightblue !important;
+color:black !important;
+}

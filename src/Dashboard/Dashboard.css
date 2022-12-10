@@ -1,0 +1,46 @@
+
+.backgroundscreen{
+    background-color:whitesmoke;
+    height:700px; 
+    /* margin-top: 57px; */
+    /* width: 1349px; */
+
+}
+
+.rowmargin{
+    margin-top: 45px !important;
+    margin-left: 45px !important;
+
+}
+
+.rowmargin2{
+    margin-top: 45px !important;
+    margin-left: 45px !important;
+}
+
+.cardmargin{
+    margin-top: 35px !important;
+    margin-left: 15px;
+    border-left-style: solid !important;
+    border-left-color: lightblue !important;
+    border-left-width:medium !important;
+}
+.cardmargin1{
+    margin-left: 15px ;
+       
+    border-left-style: solid !important;
+    border-left-color: lightblue !important;
+    border-left-width:medium !important;
+}
+.cardsidecolor{
+    margin-top: 35px !important;
+    border-left-style: solid !important;
+    border-left-color: lightblue !important;
+    border-left-width:medium !important;
+}
+
+.cardmargincolor{
+    border-left-style: solid !important;
+    border-left-color: lightblue !important;
+    border-left-width:medium !important;
+}
